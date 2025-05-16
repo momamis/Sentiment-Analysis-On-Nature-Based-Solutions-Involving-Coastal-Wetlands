@@ -5,7 +5,9 @@ Sentiment Analysis on Nature-Based Solutions Involving Coastal Wetlands
 
 Nature-based solutions (NbS) refer to actions that work with and enhance nature to address societal challenges, such as climate change, disaster risk, water security, food security, human health, and biodiversity loss. Examples include restoring wetlands to reduce flooding, planting mangroves to buffer storm surges, or creating green urban spaces to mitigate heat islands and improve air quality. This project explores how nature-based solutions (NBS) — particularly those involving coastal wetlands — are portrayed in media and institutional discourse. It uses sentiment analysis on a curated set of web articles to understand public and institutional attitudes towards these ecological interventions. The project aims to identify whether these narratives lean positive, negative, or neutral, and how they may influence policy, conservation action, and public perception.
 
-![heatmap_media_screenshot](https://github.com/momamis/Sentiment-Analysis-On-Nature-Based-Solutions-Involving-Coastal-Wetlands/blob/main/Sentiment%20(%25)%20of%20Media%20Articles%20per%20NbS%20Type.png)
+![sentiment_media](https://github.com/momamis/Sentiment-Analysis-On-Nature-Based-Solutions-Involving-Coastal-Wetlands/blob/main/sentiment_wetlands_media.png)
+
+![sentiment_reserach](https://github.com/momamis/Sentiment-Analysis-On-Nature-Based-Solutions-Involving-Coastal-Wetlands/blob/main/sentiment_wetlands_research.png)
 
 ## Work Flow and Steps
 
@@ -17,6 +19,10 @@ Nature-based solutions (NbS) refer to actions that work with and enhance nature 
 - Identified the frequency of different nature-based solutions in each sentiment category.
 
 ## Key Insights
+
+![heatmap_media](https://github.com/momamis/Sentiment-Analysis-On-Nature-Based-Solutions-Involving-Coastal-Wetlands/blob/main/Sentiment%20(%25)%20of%20Media%20Articles%20per%20NbS%20Type.png)
+
+![heatmap_research](https://github.com/momamis/Sentiment-Analysis-On-Nature-Based-Solutions-Involving-Coastal-Wetlands/blob/main/Sentiment%20(%25)%20of%20Research%20Papers%20per%20NbS%20Type.png)
 
 - Mangroves and seagrasses receive overwhelmingly positive attention from both scholars and journalists, underscoring their strong evidence base and public appeal.
 - Salt marshes are viewed even more positively in media (100%) than in research, which still contains minor critiques—possibly reflecting ecosystem-specific limitations or implementation concerns.
